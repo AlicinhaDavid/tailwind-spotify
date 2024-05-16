@@ -18,6 +18,16 @@ export default function Home() {
             Your Library
           </a>
          </nav>
+
+         <nav className="mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3">
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">ABBA</a>
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">Jazz & Blues</a>
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">Workout Playlist</a>
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">Driving my neighbors crazy</a>
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">Credance</a>
+          <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">Metalica</a>
+
+         </nav>
        </aside>      
        <main className="flex-1 p-6">
          main
